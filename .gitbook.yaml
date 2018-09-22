@@ -5,4 +5,4 @@ structure:
   summary: SUMMARY.md
  
 redirects:
-  first: ./pages/first.md
+  chapter1/first-page: ./pages/first.md
