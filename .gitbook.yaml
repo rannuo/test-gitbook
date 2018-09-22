@@ -5,4 +5,5 @@ structure:
   summary: SUMMARY.md
  
 redirects:
+  help: ./support.md
   chapter1/first-page/first-child: ./pages/first.md
